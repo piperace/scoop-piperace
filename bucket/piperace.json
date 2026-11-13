@@ -1,13 +1,13 @@
 {
     "architecture": {
         "64bit": {
-            "hash": "d3c8c2d2d3afbb38ca71fa12f8adb6b5a612421d1985c10b1ed7c93eb6e2b6e8",
-            "url": "https://piperace-downloads.s3.us-east-1.amazonaws.com/1.7.13/piperace-windows-amd64.zip"
+            "hash": "f1069ab0939a1651ed5e895417044d1838378c40f10112fe88328bb69efbc135",
+            "url": "https://piperace-downloads.s3.us-east-1.amazonaws.com/1.7.14/piperace-windows-amd64.zip"
         }
     },
     "bin": "piperace.exe",
     "description": "Expose local ports through a Piperace tunnel",
     "homepage": "https://piperace.com",
     "license": "Proprietary",
-    "version": "1.7.13"
+    "version": "1.7.14"
 }
